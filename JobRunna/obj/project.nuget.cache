@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0P/doy96QM=",
+  "success": true,
+  "projectFilePath": "/home/reidruss/Projects/dev/JobRunna/JobRunna/JobRunna.csproj",
+  "expectedPackageFiles": [
+    "/home/reidruss/.nuget/packages/yamldotnet/18.1.0/yamldotnet.18.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

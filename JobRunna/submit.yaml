@@ -1,0 +1,5 @@
+name: sample-job
+output: output.txt
+error: sample.err
+command: |
+    python3 Tests/test.py

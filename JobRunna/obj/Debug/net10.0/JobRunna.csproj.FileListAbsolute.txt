@@ -1,0 +1,17 @@
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/JobRunna
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/JobRunna.deps.json
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/JobRunna.runtimeconfig.json
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/JobRunna.dll
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/JobRunna.pdb
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.GeneratedMSBuildEditorConfig.editorconfig
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.AssemblyInfoInputs.cache
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.AssemblyInfo.cs
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.csproj.CoreCompileInputs.cache
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.dll
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/refint/JobRunna.dll
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.pdb
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.genruntimeconfig.cache
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/ref/JobRunna.dll
+/home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/YamlDotNet.dll
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.csproj.AssemblyReference.cache
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.csproj.Up2Date
