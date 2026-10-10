@@ -13,6 +13,22 @@ public static class Program
             return 1;
         }
 
+        var userInput = string.Empty;
+        do
+        {
+            Console.Write("> ");
+            userInput = Console.ReadLine() ??  string.Empty;
+
+            if (userInput.Equals("help", StringComparison.OrdinalIgnoreCase))
+            {
+                Console.WriteLine("<INSERT HELP DOC HERE>");
+            }
+            else if (userInput.StartsWith("run ", StringComparison.OrdinalIgnoreCase))
+            {
+                var trimmedInput = userInput.Substring(3).TrimStart();
+            }
+            
+        } while (!userInput.Equals("exit", StringComparison.OrdinalIgnoreCase));
 
         SubmissionModel submission;
         try

@@ -15,3 +15,4 @@
 /home/reidruss/Projects/dev/JobRunna/JobRunna/bin/Debug/net10.0/YamlDotNet.dll
 /home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.csproj.AssemblyReference.cache
 /home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.csproj.Up2Date
+/home/reidruss/Projects/dev/JobRunna/JobRunna/obj/Debug/net10.0/JobRunna.sourcelink.json
